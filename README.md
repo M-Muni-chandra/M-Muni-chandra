@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,30:0F172A,70:1E3A8A,100:38BDF8&text=Muni%20Chandra&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Tells+Stories;Mathematics+Meets+Business;Statistics+Drives+Decisions;Data+Tells+Stories;Solving+Problems+Using+Data" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=From+Data+To+Decisions;Mathematics+Meets+Business;Statistics+Drives+Decisions;Data+Tells+Stories;Solving+Problems+Using+Data" />
 
 </div>
 
